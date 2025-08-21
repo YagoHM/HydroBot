@@ -1,0 +1,4 @@
+- Set-ExecutionPolicy -Scope Process -ExecutionPolicy Bypass
+- winget install Schniz.fnm
+- npx install-expo-modules@latest
+- npm install expo
